@@ -1,0 +1,33 @@
+img.center{height:150px;
+margin-left: auto;
+margin-right: auto;
+display:block;
+border-radius: 40%;
+}
+
+body{background-color: black;
+background-image: url("chuttersnap-BofgeVFG-_w-unsplash.jpg");}
+.title{color: aqua;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;}
+h3{color: rgb(239, 239, 248);
+text-align: center;
+font-size: 26px;
+font-family: Arial, Helvetica, sans-serif;}
+p{background-color: gray !important;
+    opacity:0.75;
+color:black;
+width: 500px;
+margin-right: auto;
+margin-left: auto;
+font-size: 20px;
+font-family:Arial, Helvetica, sans-serif ;
+font-weight: bold;
+padding: 25px;
+}
+img.next{height:50px;
+margin-left: auto;
+margin-right: auto;
+display:block;
+ }
+
